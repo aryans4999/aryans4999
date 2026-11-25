@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/aryan-shrivastava-171277254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aryans4999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -84,8 +84,8 @@ I build intelligent systems **end to end**: from model integration and backend A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryans4999&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryans4999&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,6 +94,6 @@ I build intelligent systems **end to end**: from model integration and backend A
 
 I'm always open to talking about AI, computer vision, or building something useful together.
 
-📧 **aryans4999@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+📧 **aryans4999@gmail.com** · 💼 [LinkedIn](www.linkedin.com/in/aryan-shrivastava-171277254)
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
